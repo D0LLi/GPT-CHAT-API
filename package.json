@@ -15,7 +15,7 @@
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
     "jsdom": "^21.1.0",
-    "openai": "^3.2.1",
+    "openai": "^4.86.2",
     "serve-favicon": "^2.5.0",
     "winston": "^3.8.2"
   }
